@@ -8,13 +8,13 @@ This folder contains different projects that parents can complete with their chi
 As of today, this project is a work in progress. As this project unfolds, additional materials in the Spanish language will be added.
 
 ## Contents
--	[About Me](AboutMe)
--	[Projects](Projects)
--	[How to Use This Repository](HowtoUseThisRepository)
--	[Resources](Resources)
--	[License](License)
--	[Support](Support)
--	[Contact](Contact)
+-	[About Me](#about-me)
+-	[Projects](#projects)
+-	[How to Use This Repository](#how-to-use-this-repository)
+-	[Resources](#resources)
+-	[License](#license)
+-	[Support](#support)
+-	[Contact](#contact)
 
 ## About Me
 My name is Andrew Wright and I have a son with autism. 
