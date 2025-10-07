@@ -65,6 +65,8 @@ Here’s a suggested way to use the materials:
 ## License
 All projects in this folder are released under the **Creative Commons Attribution-NonCommerical 4.0 International (CC BY-NC 4.0)** license. You are free to share and adapt this material,  as long as you give appropriate credit and **do not use it for commercial purposes**. For more details, [follow this link](https://creativecommons.org/licenses/by-nc/4.0/).
 
+For complete license text, please see [LICENSE](license).
+
 ## Support
 The best way for you to support me with this project is to try out these experiments with your little ones and document their fun and enthusiasm for learning.
 
