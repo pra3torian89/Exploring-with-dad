@@ -35,7 +35,7 @@ For children with autism, these activities provide additional benefits. They sup
 
 Overall, the projects combine science, literacy, and personal growth, providing opportunities for meaningful learning and connection between parents and children. They are designed to be shared and adapted so other families can enjoy the same experiences and developmental benefits.
 
-I sincerely hope you enjoy completing this projects along with your little ones.
+I sincerely hope you enjoy completing these projects along with your little ones.
 
 ## Projects
 -	Butterfly Metamorphosis
