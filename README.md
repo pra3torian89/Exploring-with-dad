@@ -12,6 +12,7 @@ As of today, this project is a work in progress. As this project unfolds, additi
 -	[Projects](#projects)
 -	[How to Use This Repository](#how-to-use-this-repository)
 -	[Resources](#resources)
+-	[Terms of Use](#terms-of-use)
 -	[License](#license)
 -	[Support](#support)
 -	[Contact](#contact)
@@ -61,6 +62,11 @@ Here’s a suggested way to use the materials:
 -	[Autism Speaks](https://www.autismspeaks.org/)
 -	[Responsible Fatherhood](https://acf.gov/ofa/programs/healthy-marriage/responsible-fatherhood)
 -	[Cuyahoga County, Ohio Fatherhood Initiative](https://hhs.cuyahogacounty.gov/divisions/detail/fatherhood-initiative)
+
+## Terms of Use
+By using *Exploring with Dad* materials, you agree to follow all applicable laws and regulations and acknowledge the risks involved in handling insects, animals, or other living organisms. These materials are intended for educational purposes only, and users assume full responsibility for their actions.  
+
+For the full Terms of Use and Disclaimer, please see [TERMS-OF-USE.md](TERMS-OF-USE.md).
 
 ## License
 All projects in this folder are released under the **Creative Commons Attribution-NonCommerical 4.0 International (CC BY-NC 4.0)** license. You are free to share and adapt this material,  as long as you give appropriate credit and **do not use it for commercial purposes**. For more details, [follow this link](https://creativecommons.org/licenses/by-nc/4.0/).
